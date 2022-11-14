@@ -12,4 +12,35 @@
  *
  *= require_tree .
  *= require_self
+
  */
+.ask_user {
+  margin: 20px;
+  width: 100%;
+  text-align: center;
+
+}
+
+.champs {
+  width: 100;
+}
+
+
+.stupid {
+  margin: 20px;
+  width: 100%;
+  text-align: center;
+
+}
+
+.user {
+  background-color: rgb(236, 231, 231);
+  padding-left: 50px;
+
+}
+
+.coach {
+  background-color: rgb(150, 86, 86);
+  padding-left: 50px;
+
+}
